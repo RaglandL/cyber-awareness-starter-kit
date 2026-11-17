@@ -13,7 +13,7 @@ An employee receives a text message asking them to scan a QR code and confirm pa
 Questions to Ask
 Was the message expected?
 
-Does the sender’s information look familiar?
+Does the sender’s information look familiar? 
 
 Is the message creating fear or urgency?
 

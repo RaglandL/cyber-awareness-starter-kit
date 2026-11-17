@@ -31,28 +31,7 @@ I created this project while exploring CyberDeveloper Associate and governance, 
 
 
 
-—
-
-Select Commit changes. Use this commit message:
-
-Create cyber awareness project overview
-
-
-A commit is a saved snapshot of your work. You just created your first one.
 
 
 
 
-
-Before you finish
-Read your page as if you were training a new coworker:
-
-Is it understandable?
-
-Does it avoid technical jargon?
-
-Does it tell the employee what to do next?
-
-What this demonstrates: security awareness, written communication, threat recognition, and documentation.
-
-Tomorrow, you will evaluate the risks hiding inside Jordan’s situation.

@@ -1,4 +1,4 @@
-Cyber Awareness Risk Register
+# **Cyber Awareness Risk Register**
 
 This risk register is for a fictional warehouse or retail workplace.
 
@@ -12,13 +12,13 @@ This risk register is for a fictional warehouse or retail workplace.
 
 
 —
-How Risks Were Rated
-Likelihood describes how likely the event is to happen.
+### **How Risks Were Rated**
+**Likelihood** describes how likely the event is to happen.
 
-Impact describes how much harm the event could cause.
+**Impact** describes how much harm the event could cause.
 
-Risks rated high in both areas should receive quick attention.
+Risks rated high in ***both*** areas should receive quick attention.
 
 
-Priority Recommendation
+### **Priority Recommendation**
 The organization should address phishing first because employees regularly receive texts and emails, and one successful attack could expose passwords, payroll information, or other sensitive data.
